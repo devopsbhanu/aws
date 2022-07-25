@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @devopsbhanu
-- teluguskilltech
+- teluguskills
 - ondemandlabs
